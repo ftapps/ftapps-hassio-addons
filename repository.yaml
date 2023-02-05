@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: tonyldo HassIO Addo-ns
-url: 'https://github.com/ftapps/tonyldo-hassio-addons'
-maintainer: Antonio Campos <tonyldo@gmail.com>
+name: ftapps HassIO Addo-ns
+url: 'https://github.com/ftapps/ftapps-hassio-addons'
+maintainer: Felipe Tumonis <ftumonis@gmail.com>
