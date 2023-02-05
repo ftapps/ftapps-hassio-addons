@@ -8,7 +8,7 @@
 Add the follow url to your Supervisor Add-on Store by click at the three vertical dots on rigth up corner.
 
 ```txt
-https://github.com/tonyldo/tonyldo-hassio-addons
+https://github.com/ftapps/ftapps-hassio-addons
 ```
 
 ## More information
